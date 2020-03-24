@@ -6,7 +6,7 @@ To make the converter work u need to download pip to also install the PyPDF2 lib
 
 PDF toolkit https://pypi.org/project/PyPDF2/
 
-Super.pdf is the test file to add watermark 2 but can ofc be used with any pdf file just change the template = PyPDF2.PdfFileReader(open('{FILENAME}.pdf', 'rb'))
+Orginal.pdf is the test file to add watermark 2 but can ofc be used with any pdf file just change the template = PyPDF2.PdfFileReader(open('{FILENAME}.pdf', 'rb'))
 
 --Running Script--
 
